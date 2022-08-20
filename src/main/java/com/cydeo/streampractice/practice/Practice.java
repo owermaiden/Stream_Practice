@@ -46,7 +46,7 @@ public class Practice {
 
     // Display all the countries
     public static List<Country> getAllCountries() {
-        //TODO Implement the method
+        System.out.println("some changes");
         return new ArrayList<>();
     }
 
